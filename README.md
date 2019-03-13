@@ -14,5 +14,5 @@ The RCurl library should be loaded and the retrieved url must be cat:
 ```{r, echo=FALSE, results="asis", warning=FALSE, message=FALSE, eval=TRUE, cache=FALSE}
 if(!"RCurl" %in% installed.packages()) install.packages("RCurl")
 library("RCurl")
-cat(getURL("https://shklinkenberg.github.io/uva_style/contact.md"))
+cat(getURL("https://shklinkenberg.github.io/slides/file.md"))
 ```
