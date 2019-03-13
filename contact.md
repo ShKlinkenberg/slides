@@ -5,4 +5,5 @@
 <li><i class="fa-li fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/sharonklinkenberg/" target="_blank" style="color:lightgrey; border-bottom:none;">Klinkenberg</a></li>
 <li><i class="fa-li fa fa-envelope-o"></i> <a style="unicode-bidi:bidi-override; direction: rtl; color:lightgrey" href="javascript:window.location.href = 'mailto:' + ['s.klinkenberg','uva.nl'].join('@')">ln.AvU@grebneknilK.S</a></li>
 <li><i class="fa-li fa fa-github"></i> <a href="https://github.com/ShKlinkenberg" target="_blank" style="color:lightgrey; border-bottom:none;">ShKlinkenberg</a></li>
+<li><i class="fa-li fa fa-globe-europe"></i> <a href="http://www.klinkenberg.amsterdam" target="_blank" style="color:lightgrey; border-bottom:none;">Klinkenberg.Amsterdam</a></li>
 </ul>
