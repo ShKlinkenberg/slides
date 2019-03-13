@@ -1,6 +1,3 @@
-
-# Contact
-
 <script src="https://use.fontawesome.com/23c1d38eea.js"></script>
 
 <ul class="fa-ul" style="color:lightgrey;">
